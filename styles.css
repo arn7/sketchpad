@@ -2,12 +2,12 @@
 
 #container {
 	
-	
+	 
 	width:640px;  
 	height:640px
 	text-align: center;
-	margin:auto;  
-	background-color:black; 
+	margin:10px auto;  
+	 
 } 
 
 .grid {
@@ -15,9 +15,8 @@
 	height:40px; 
 	width:40px; 
 	float: left; 
-	
 	margin:0px;  
-	outline: 1px dotted #000;
+	outline: none;
 	
 
 	} 
@@ -29,5 +28,17 @@ h1 {
 }
 
 body {
-	background-color:#F5FFFA; 
+	background-color:rgb(64,224,208); 
+}
+
+
+
+#reset{
+	padding:15px; 
+	position: relative; 
+	left:715px;  
+	background-color:#73716D; 
+	color:white; 
+ 
+	
 }
